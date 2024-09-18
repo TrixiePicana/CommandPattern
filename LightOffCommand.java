@@ -1,6 +1,6 @@
 package commandPattern;
 
-public class LightOffCommand implements Command //Concrete command class
+public class LightOffCommand implements Command //Implementing Concrete Command for device Light
 {
     private Light light;
 
