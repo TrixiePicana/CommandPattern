@@ -3,7 +3,7 @@ package commandPattern;
 import java.util.ArrayList;
 import java.util.List;
 
-public class lightSwitch //Invoker class
+public class lightSwitch //Invoker class for maging list of commands from the device Light
 {
     private List<Command> commands = new ArrayList<>();
 
