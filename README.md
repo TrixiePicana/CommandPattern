@@ -12,4 +12,5 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 
 <h2>UML Diagram</h2> <br>
 
-![image](https://github.com/user-attachments/assets/f170d00b-792b-4989-92d7-e86b27a7cdc2)
+![image](https://github.com/user-attachments/assets/4b91387a-5c49-4ea2-b7b2-a5017120dcd3)
+
