@@ -1,4 +1,4 @@
-Smart Home Automation
+<h2>Smart Home Automation</h2>
 
 Imagine you're building a smart home automation system where various devices (lights, thermostat, music player, etc.) can be controlled remotely using a central hub or app. Each device has different functionalities, but you want to create a unified and flexible control mechanism.
 
@@ -9,3 +9,8 @@ Each device has unique actions associated with these commands. For example, turn
 New devices can be seamlessly integrated into the system without modifying existing code. You want to ensure that adding a new device doesn't require changes to the central control logic.
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
+
+<h2>UML Diagram</h2> <br>
+
+![image](https://github.com/user-attachments/assets/f170d00b-792b-4989-92d7-e86b27a7cdc2)
+
